@@ -1,4 +1,9 @@
-# OperationsOnDictionaryInPython contains python scripts of 5 types of operations namely : 
+# OperationsOnDictionaryInPython contains python scripts for operations on : 
+1. Dictionary
+2. Tuple
+3. Set
+
+# DictionaryOperation contains python scripts for 5 types of opeations on dictionary namely :
 1. checking key is present in dictionary or not
 2. merging two dictionaries
 3. sum of all items (keys as well as values) of dictionary
